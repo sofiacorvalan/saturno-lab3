@@ -4,7 +4,7 @@ Trabajo práctico integrador entre las materias Laboratorio de computación 3 y 
 
 Acompañenos en esta hermosa aventura.
 
-##Figma:
+## Figma:
 Para este proyecto trabajaremos de manera remota con Figma donde empezaremos a crear las primeras plantillas de cómo se va a ver la aplicación.
 Link: https://www.figma.com/file/PlKyJMk4zwiuYwLRwVpsod/Saturno?node-id=1%3A5
 

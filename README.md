@@ -9,3 +9,7 @@ Para este proyecto trabajaremos de manera remota con Figma donde empezaremos a c
 Link: https://www.figma.com/file/PlKyJMk4zwiuYwLRwVpsod/Saturno?node-id=1%3A5
 
 Con respecto al diseño aplicaremos la lógica del estilo de diseño Mobile First, donde el diseño principal se piensa para dispositivos móviles y después se adapta a los otros tipos de pantalla.
+
+## Paleta de colores:
+Todavía hay que elaborarla pero por lo pronto utilizaremos la siguiente:
+https://coolors.co/8d6a9f-54dbc3-ff5e5b-dda448
